@@ -9,7 +9,7 @@ class Info{
         cout<<"Default constructor"<<endl;
     }
     void print(){
-        cout<<"Imie: "<<name<<", wiek: "<<age<<endl;
+        cout<<"Imie: "<<name<<", wiekkkk: "<<age<<endl;
     }
 };
 
